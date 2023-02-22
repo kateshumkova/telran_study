@@ -2,4 +2,4 @@ ls
 > song.txt
 
 clear
-
+Учусь
